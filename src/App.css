@@ -1,0 +1,4 @@
+/* styles.css or globals.css */
+.active {
+    @apply text-emerald-400 font-semibold;
+  }
